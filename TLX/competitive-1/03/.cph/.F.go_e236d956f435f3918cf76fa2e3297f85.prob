@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\Ellipsis\\Documents\\LearnGO\\TLX\\competitive-1\\03\\F.go","tests":[{"id":1737461906082,"input":"3\n10\n10\n10\n3\n5\n10\n25","output":"1\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ellipsis\\Documents\\LearnGO\\TLX\\competitive-1\\03\\F.go","group":"local","local":true}
