@@ -1,1 +1,0 @@
-{"name":"Local: B3","url":"c:\\Users\\Ellipsis\\Documents\\LearnGO\\TLX\\osnp-2022\\B3.cpp","tests":[{"id":1739772076024,"input":"6 5 2\n1 6 8 3 10 2\n2\n5","output":"4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ellipsis\\Documents\\LearnGO\\TLX\\osnp-2022\\B3.cpp","group":"local","local":true}
