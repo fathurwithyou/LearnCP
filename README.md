@@ -30,7 +30,3 @@ Looking for quick references or solutions to a bunch of coding problems? You’r
 ## License
 
 No formal license here. Feel free to use these solutions as you wish, whether for learning, reference, or just plain old curiosity.
-
----
-
-**Happy coding and have a blast exploring the solutions!**
